@@ -21,7 +21,7 @@
         "illuminate/contracts": "^11.0||^12.0||^13.0"
     },
     "require-dev": {
-        "foodieneers/laravel-devtools": "dev-main",
+        "foodineers/laravel-devtools": "dev-main",
         "matthewbdaly/artisan-standalone": "*",
         "orchestra/testbench": "*"
     },
