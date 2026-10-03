@@ -44,4 +44,5 @@ return RectorConfig::configure()
             __DIR__.'/tests',
         ],
     ])
+    ->withCodeQualityLevel(50)
     ->withPhpSets();
