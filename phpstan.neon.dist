@@ -5,5 +5,5 @@ parameters:
         - config
         - database
         - routes
-    tmpDir: build/phpstan
+    tmpDir: .build/phpstan
     checkOctaneCompatibility: true
